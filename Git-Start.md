@@ -1,7 +1,4 @@
-title: Git Start
-date: 2015-12-11 17:06:33
-tags:
----
+
 ## 创建新分支
 
 	git checkout -b redux-simple 
